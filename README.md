@@ -8,7 +8,7 @@ This repository offers scripts that can assist in setting up and configuring a U
 ## Scripts
 Currently, the repository includes the following scripts:
 
-- `autologoffConfigurator.bat`: This script configures the autologoff time of all group users inside UMC
+- `autologoffConfigurator.bat`: configures the autologoff time of all group users inside UMC
 
 Each script will be placed in its own folder, containing the script itself and a README.md file specific to that script.
 
