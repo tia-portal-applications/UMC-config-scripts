@@ -26,7 +26,7 @@ foreach ($group in $groupList) {
     try {
             $groupDataOutput = & "C:\Program Files\Siemens\UserManagement\BIN\UMX.exe" -x $UMCADMIN $UMCADMINPWD -i -g $group -s
             if ($LASTEXITCODE -ne 0) {
-                throw "Error: The following group could no be extracted: $group"
+                throw "Error: The following group could not be extracted: $group"
             }
         } catch {
             Write-Error $_
