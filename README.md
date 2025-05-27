@@ -3,7 +3,8 @@
 Welcome to the UMC-config-scripts repository!  
 This repository offers scripts that can assist in setting up and configuring a User Management Component (UMC) environment, helping to streamline and automate various aspects of UMC setup and configuration.
 
-> **Tip:** You can find more information regarding UMC in the SiePortal **[UMC application example](https://support.industry.siemens.com/cs/ww/en/view/109780337)**.
+> **Tip:** For more details, including the installer, release notes, license and compatibility information, please visit the SiePortal **[Download and sales/delivery release for UMC](https://support.industry.siemens.com/cs/ww/en/view/109987708)**.
+> You can also explore our **[UMC application examples](https://support.industry.siemens.com/cs/ww/en/view/109780337)** to get practical guidance.
 
 ## Scripts
 Currently, the repository includes the following scripts:
