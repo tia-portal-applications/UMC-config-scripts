@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "groupName": "Admins",
+      "autologoffTime": 10
+    },
+    {
+      "groupName": "Operators",
+      "autologoffTime": 20
+    },
+	{
+      "groupName": "DOMAIN\\Engineers",
+      "autologoffTime": 30
+    }
+  ]
+}
